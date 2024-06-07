@@ -20,7 +20,7 @@ const data=[
         name:"Moviz",
         img:"https://img.freepik.com/free-vector/abstract-creative-homepage-illustration_23-2149223766.jpg?t=st=1717810919~exp=1717814519~hmac=f59b9eb41eb9f45259ca2b47ddedf2394d40fd20b43d09f4ffd812b177afe5c6&w=740",
         technologies:"React.Js , Node.Js, IMDB JSON",
-        use:"A user-friendly movie recommendation platform.Seamlessly recommends movies based on user preferences.Built with React for the frontend, Node.js for the backend, and MongoDB for data storage",
+        use:"A user-friendly movie recommendation platform.Built with React for the frontend, Node.js for the backend, and MongoDB for data storage",
         git:"https://github.com/Merndev0/Moviez"
     },
     {
