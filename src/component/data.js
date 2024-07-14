@@ -1,3 +1,4 @@
+const imgf=require("./invoice.jpg")
 const data=[
     {
         id:1,
@@ -38,6 +39,15 @@ const data=[
         technologies:"React.js,JSON",
         use:"In functions, wedding halls, and hotels, if there is excess food, users can contact the specified number on the website. The app's primary goal is to support The Children's Trust, a charitable organization. Additionally, users can find donation information within the app.",
         git:"https://github.com/Merndev0/Trust"
+    },
+    {
+        id:6,
+        name:"Billing Website",
+        img:imgf,
+        technologies:"React.js,React Hooks",
+        use:"Automate and streamline invoice collection and generation for  seamless management of product transactions, including multiple items and discounts for the Product Collection!",
+        git:"https://billsite.netlify.app"
+
     }
 
 ]
