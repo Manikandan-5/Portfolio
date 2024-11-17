@@ -13,7 +13,7 @@ export const About = () => {
         <p className='text-white'>A Full Stack Developer with a passion for building dynamic and responsive web applications. Possesses a strong foundation in both client and server side development, with a total of 
         <span className='text-info font-bold'> 1.5 Years of Experience</span></p>
     <a href="https://mail.google.com/mail/u/0/#search/merndev05%40gmail.com" target='_blank'  rel="noreferrer"> <Button className='bg-info text-black '>Hire</Button></a>
-     <a href="https://github.com/Merndev0" target='_blank'  rel="noreferrer"> <Button variant="outline-info">Github</Button> </a>
+     <a href="https://github.com/Manikandan-5" target='_blank'  rel="noreferrer"> <Button variant="outline-info">Github</Button> </a>
       </Col>
       <Col lg={6} md={6} className='mt-5 mb-5'>
       <div className="about-img">

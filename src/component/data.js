@@ -60,7 +60,7 @@ const data=[
     {
         id:8,
         name:"Image Gallery",
-        img:"",
+        img:"https://website-assets.commoninja.com/distribution/1683801032306_Image_gallery.png",
         technologies:"Vue.js,Laravel,Pexels - API",
         use:"Built the application from scratch, focusing on user experience and performance.Added search and filter options for easy image discovery and categorization.",
         git:"https://github.com/Manikandan-5/Gallery-app"
