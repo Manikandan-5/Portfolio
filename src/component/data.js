@@ -1,13 +1,13 @@
-// const imgf=require("./invoice.jpg")
+const imgf=require("./invoice.jpg")
 const data=[
-    // {
-    //     id:1,
-    //     name:"Authentication and Authorization",
-    //     img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbPEsu0nd9pN5x9SX-v0YpRX4p1Yd9jw-MlA&s",
-    //     technologies:"React.Js, JWT Token , Node.Js, Mongo DB",
-    //     use:"Implemented JWT-based authentication and authorization in the project, enabling secure user login and protected routes. Manages authentication state and restricts access to protected components.",
-    //     git:"https://github.com/Manikandan-5/Authentication-api"    
-    // },
+    {
+        id:1,
+        name:"Authentication and Authorization",
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbPEsu0nd9pN5x9SX-v0YpRX4p1Yd9jw-MlA&s",
+        technologies:"React.Js, JWT Token , Node.Js, Mongo DB",
+        use:"Implemented JWT-based authentication and authorization in the project, enabling secure user login and protected routes. Manages authentication state and restricts access to protected components.",
+        git:"https://github.com/Manikandan-5/Authentication-api"    
+    },
     {
         id:2,
         name:"E-Commerce",
@@ -40,15 +40,15 @@ const data=[
         use:"In functions, wedding halls, and hotels, if there is excess food, users can contact the specified number on the website. The app's primary goal is to support The Children's Trust, a charitable organization. Additionally, users can find donation information within the app.",
         git:"https://github.com/Manikandan-5/Trust"
     },
-    // {
-    //     id:6,
-    //     name:"Billing Website",
-    //     img:imgf,
-    //     technologies:"React.js,React Hooks",
-    //     use:"Automate and streamline invoice collection and generation for  seamless management of product transactions, including multiple items and discounts for the Product Collection!",
-    //     git:"https://billsite.netlify.app"
+    {
+        id:6,
+        name:"Billing Website",
+        img:imgf,
+        technologies:"React.js,React Hooks",
+        use:"Automate and streamline invoice collection and generation for  seamless management of product transactions, including multiple items and discounts for the Product Collection!",
+        git:"https://billsite.netlify.app"
 
-    // }
+    },
      {
         id:7,
         name:"Cook-Up",
@@ -57,14 +57,14 @@ const data=[
         use:"Created a user-friendly recipe app.Utilizes intuitive search functionality to quickly find recipes based on keywords or categories.Empowers users to discover, save, and share their favorite recipes, enhancing their culinary journey",
         git:"https://github.com/Manikandan-5/RECIPE"
     },
-    {
-        id:8,
-        name:"Image Gallery",
-        img:"https://website-assets.commoninja.com/distribution/1683801032306_Image_gallery.png",
-        technologies:"Vue.js,Laravel,Pexels - API",
-        use:"Built the application from scratch, focusing on user experience and performance.Added search and filter options for easy image discovery and categorization.",
-        git:"https://github.com/Manikandan-5/Gallery-app"
-}
+//     {
+//         id:8,
+//         name:"Image Gallery",
+//         img:"https://website-assets.commoninja.com/distribution/1683801032306_Image_gallery.png",
+//         technologies:"Vue.js,Laravel,Pexels - API",
+//         use:"Built the application from scratch, focusing on user experience and performance.Added search and filter options for easy image discovery and categorization.",
+//         git:"https://github.com/Manikandan-5/Gallery-app"
+// }
 
 ]
 export default data;
