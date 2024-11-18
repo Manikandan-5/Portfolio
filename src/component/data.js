@@ -46,7 +46,7 @@ const data=[
         img:imgf,
         technologies:"React.js,React Hooks",
         use:"Automate and streamline invoice collection and generation for  seamless management of product transactions, including multiple items and discounts for the Product Collection!",
-        git:"https://billsite.netlify.app"
+        git:"https://github.com/Manikandan-5/Bill-Website"
 
     },
      {
