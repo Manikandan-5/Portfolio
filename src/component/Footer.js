@@ -3,7 +3,7 @@ import Container from 'react-bootstrap/Container';
 import Button from 'react-bootstrap/Button';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import { FaGithub, FaEnvelope, FaLinkedin, FaTwitter } from 'react-icons/fa';
+import { FaGithub, FaEnvelope } from 'react-icons/fa';
 import contact from '../component/assets/undraw_success-factors_i417.png'
 const Footer = () => {
   return (
