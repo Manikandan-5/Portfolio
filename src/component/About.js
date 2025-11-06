@@ -24,7 +24,7 @@ export const About = () => {
             <div className="mb-3">
               <h5 className="text-white">API Integrations:</h5>
               <ul className="text-white">
-                <li>ChatGPT AI (OpenAI API)</li>
+                <li>ChatGPT AI (OpenAI API) Integration</li>
                 <li>Payment Gateway Integration</li>
                 <li>Email Integration (SMTP / Third-Party services)</li>
                 <li>Push Notification Integration</li>
