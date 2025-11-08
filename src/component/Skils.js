@@ -19,7 +19,7 @@ const Skils = () => {
 
   <p className='text-white'>
     <strong className='text-info'>MERN Stack Expertise:</strong>
-    Proficient in designing and developing scalable web applications using MongoDB, Express.js, React.js, and Node.js — along with supporting technologies like HTML, CSS, Bootstrap, TailwindCSS, JavaScript,TypeScript, Redux, MySQL,Ci / CD,AWS and Docker.
+    Proficient in designing and developing scalable web applications using MongoDB, Express.js, React.js, and Node.js — along with supporting technologies like HTML, CSS, Bootstrap, TailwindCSS, JavaScript,TypeScript, Redux, MySQL.
   </p>
 
   <p className='text-white'>
@@ -62,8 +62,8 @@ const Skils = () => {
         <h3><span className="badge bg-info text-white">MONGO DB</span></h3>
         <h3><span className="badge bg-info text-white">MYSQL</span></h3>
         <h3><span className="badge bg-info text-white">Git And GitHub</span></h3>
-        <h3><span className="badge bg-info text-white">CI / CD</span></h3>
-        <h3><span className="badge bg-info text-white">DOCKER</span></h3>
+        {/* <h3><span className="badge bg-info text-white">CI / CD</span></h3> */}
+        {/* <h3><span className="badge bg-info text-white">DOCKER</span></h3> */}
         <h3><span className="badge bg-info text-white">AWS</span></h3>
         <h3><span className="badge bg-info text-white">API INTEGRATION</span></h3>
         <h3><span className="badge bg-info text-white">REST API</span></h3>
