@@ -13,13 +13,13 @@ const Skils = () => {
        <section id='About' className='mt-3 mb-5'>
 
   <p className='text-white'>
-    <strong className='text-info'>2.5+ Years of Professional Experience:</strong>
-    A passionate Full Stack Developer with 1 year of experience as a MERN Stack Trainer and 1.5 years as a MERN Stack Developer — building and delivering impactful web solutions.
+    <strong className='text-info'>2.10+  (Nearly 3)  Years of Professional Experience:</strong>
+    A passionate Full Stack Developer with 1 year of experience as a MERN Stack Trainer and 1.10 years as a MERN Stack Developer — building and delivering impactful web solutions.
   </p>
 
   <p className='text-white'>
     <strong className='text-info'>MERN Stack Expertise:</strong>
-    Proficient in designing and developing scalable web applications using MongoDB, Express.js, React.js, and Node.js — along with supporting technologies like HTML, CSS, Bootstrap, TailwindCSS, JavaScript,TypeScript, Redux, MySQL.
+    Proficient in designing and developing scalable web applications using MongoDB, Express.js, React.js, and Node.js — along with supporting technologies like HTML, CSS, Bootstrap, TailwindCSS, JavaScript,TypeScript, Redux,React Query, MySQL.
   </p>
 
   <p className='text-white'>
