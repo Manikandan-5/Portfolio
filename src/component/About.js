@@ -15,7 +15,7 @@ export const About = () => {
           <p className='text-white mb-2'>
             A MERN Stack Developer with a passion for building dynamic and responsive web applications. 
             Possesses a strong foundation in both client and server side development, with a total of 
-            <span className='text-info fw-bold'> 2.5+ Years of Experience</span>
+            <span className='text-info fw-bold'> 2.10+ (Nearly 3) Years of Experience</span>
           </p>
           
           <div className="skills-section mb-4">
